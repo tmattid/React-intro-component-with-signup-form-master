@@ -1,8 +1,8 @@
 {
-  "name": "my-app",
+  "name": "React-intro-component-with-signup-form-master",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tmattid.github.io/React-intro-component-with-signup-form-master/",
+  "homepage": "https://tmattid.github.io/",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
