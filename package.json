@@ -16,7 +16,6 @@
     "formik": "^2.2.9",
     "formik-material-ui": "^4.0.0-alpha.2",
     "formik-mui": "^4.0.0-alpha.3",
-    "gh-pages": "^4.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
@@ -48,5 +47,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
